@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the page of Walter Wong.
+Xueyi Wang is a postdoctoral reseacher at Discrete Technology & Production Automation (DTPA), Engineering and Technology institute Groningen (ENTEG), University of Groningen. His research intrest is about machine learning, deep learning, sensor fuion, multimodal learning, smart health, smart rehalitation, etc.
